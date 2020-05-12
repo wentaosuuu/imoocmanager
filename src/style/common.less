@@ -1,0 +1,51 @@
+@import "./loading.less";
+@import "./default.less";
+
+ul,li{
+  list-style: none;
+}
+
+//clearfix不成功, 算了, 功能实现就行了, 样式不成就算了
+.clearfix{
+  &:after{
+    content: ' ';
+    clear: both;
+    display: block;
+    visibility: hidden;
+  }
+}
+
+.container{
+  .nav-left{
+    height: calc(100vh);
+    color: #ffffff;
+    background-color: #001529;
+  }
+  .main{
+    background-color: @colorL;
+    height: calc(100vh);
+    overflow: auto;
+  }
+  .content{
+    position: relative;
+    padding: 20px;
+  }
+}
+
+.content-wrap{
+  background: #ffffff;
+  border:1px solid #e8e8e8;
+  margin-top: -3px;
+  .ant-table-wrapper{
+    margin-left: -1px;
+    margin-right: -2px;
+  }
+}
+
+.operate-wrap{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  button{
+    margin-left: 10px;
+  }
+}

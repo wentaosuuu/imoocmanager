@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b6eaf8d-5ce9-4a3b-9a08-8fc35a83d46c" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZG0L39E6BSB4PmOfVIwfU94unH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/style" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/style" />
+      <recent name="$PROJECT_DIR$/src/statics" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/pages/router_demo/router3" />
+      <recent name="$PROJECT_DIR$/src/pages/router_demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/statics/iconfont" />
+      <recent name="$PROJECT_DIR$/src/pages/router_demo/router2" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b6eaf8d-5ce9-4a3b-9a08-8fc35a83d46c" name="默认更改列表" comment="" />
+      <created>1584450063395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584450063395</updated>
+      <workItem from="1584450067920" duration="4725000" />
+      <workItem from="1584458417489" duration="263000" />
+      <workItem from="1584458716108" duration="11560000" />
+      <workItem from="1584535709620" duration="8706000" />
+      <workItem from="1584612977763" duration="11031000" />
+      <workItem from="1584696873561" duration="5163000" />
+      <workItem from="1584718490369" duration="7420000" />
+      <workItem from="1584784259231" duration="29428000" />
+      <workItem from="1584867290560" duration="18130000" />
+      <workItem from="1584960974743" duration="1220000" />
+      <workItem from="1584970973143" duration="5405000" />
+      <workItem from="1584979490325" duration="2770000" />
+      <workItem from="1585055989689" duration="16842000" />
+      <workItem from="1585129285334" duration="28381000" />
+      <workItem from="1585219122452" duration="10177000" />
+      <workItem from="1585241707854" duration="6899000" />
+      <workItem from="1585303808798" duration="4018000" />
+      <workItem from="1585308119090" duration="324000" />
+      <workItem from="1585315314057" duration="11058000" />
+      <workItem from="1585350254219" duration="3549000" />
+      <workItem from="1585361515210" duration="1365000" />
+      <workItem from="1585413037787" duration="12083000" />
+      <workItem from="1585445047455" duration="5640000" />
+      <workItem from="1585483417109" duration="10929000" />
+      <workItem from="1585558000936" duration="28000" />
+      <workItem from="1585583673673" duration="165000" />
+      <workItem from="1585584599154" duration="902000" />
+      <workItem from="1585638096028" duration="81000" />
+      <workItem from="1585640761196" duration="563000" />
+      <workItem from="1585668877981" duration="4327000" />
+      <workItem from="1585688678894" duration="2440000" />
+      <workItem from="1585727670151" duration="2282000" />
+      <workItem from="1585731549534" duration="261000" />
+      <workItem from="1585732250772" duration="757000" />
+      <workItem from="1585748204963" duration="6422000" />
+      <workItem from="1585814539271" duration="9114000" />
+      <workItem from="1585929036320" duration="819000" />
+      <workItem from="1586160822567" duration="183000" />
+      <workItem from="1587836986168" duration="3499000" />
+      <workItem from="1587919484267" duration="3566000" />
+      <workItem from="1587933643968" duration="1077000" />
+      <workItem from="1589276011707" duration="445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="243" key="#CSS" timestamp="1584544826371">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state x="560" y="243" key="#CSS/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1584544826371" />
+    <state x="560" y="243" key="#ESLint" timestamp="1584720287495">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state x="560" y="243" key="#ESLint/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1584720287495" />
+    <state x="560" y="243" key="#File_Watchers" timestamp="1584480440608">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state x="560" y="243" key="#File_Watchers/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1584480440608" />
+    <state x="560" y="243" key="#Inspections" timestamp="1584723403403">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state x="560" y="243" key="#Inspections/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1584723403403" />
+    <state x="672" y="225" key="#JavaScript" timestamp="1585175312565">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state x="672" y="225" key="#JavaScript/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1585175312565" />
+    <state x="424" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584744929218">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state x="424" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1109@0.23.1920.1109" timestamp="1584744929218" />
+    <state x="698" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584788548217">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state x="698" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1584788548217" />
+    <state x="560" y="243" key="#配置路径变量" timestamp="1584612996687">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state x="560" y="243" key="#配置路径变量/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1584612996687" />
+    <state x="533" y="363" key="EditFileWatcherDialog" timestamp="1584479074435">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state x="533" y="363" key="EditFileWatcherDialog/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1584479074435" />
+    <state width="1899" height="307" key="GridCell.Tab.0.bottom" timestamp="1585444227461">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state width="1899" height="307" key="GridCell.Tab.0.bottom/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1585444227461" />
+    <state width="1899" height="307" key="GridCell.Tab.0.center" timestamp="1585444227460">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state width="1899" height="307" key="GridCell.Tab.0.center/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1585444227460" />
+    <state width="1899" height="307" key="GridCell.Tab.0.left" timestamp="1585444227459">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state width="1899" height="307" key="GridCell.Tab.0.left/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1585444227459" />
+    <state width="1899" height="307" key="GridCell.Tab.0.right" timestamp="1585444227461">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state width="1899" height="307" key="GridCell.Tab.0.right/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1585444227461" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1585097755135">
+      <screen x="0" y="23" width="1920" height="1109" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1920.1109@0.23.1920.1109" timestamp="1585097755135" />
+    <state x="-1295" y="259" width="670" height="645" key="search.everywhere.popup" timestamp="1585817965332">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1295" y="259" width="670" height="645" key="search.everywhere.popup/0.23.1920.1109/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585817965332" />
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.23.1920.1109/-1920.23.1920.1057@0.23.1920.1109" timestamp="1585497638934" />
+  </component>
+</project>
